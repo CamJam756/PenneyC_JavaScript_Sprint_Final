@@ -1,0 +1,41 @@
+[
+  {
+    "firstName": "Fern",
+    "lastName": "Penney",
+    "age": 70,
+    "isMarried": false,
+    "favoriteColors": ["blue", "green", "red"],
+    "address": {
+      "street": "2 Whalefinn Drive",
+      "city": "Spaniard's Bay",
+      "province": "Newfoundland",
+      "postalCode": "A1B 1X0"
+    },
+    "children": [
+      {
+        "firstName": "Cameron",
+        "lastName": "Penney",
+        "age": 25,
+        "likesSchool": true,
+        "address": {
+          "street": "97 Harvey Street",
+          "city": "Harbour Grace",
+          "province": "Newfoundland",
+          "postalCode": "A1A 1X0"
+        }
+      },
+      {
+        "firstName": "Cody",
+        "lastName": "Penney",
+        "age": 30,
+        "likesSchool": false,
+        "address": {
+          "street": "180 New Forest RD",
+          "city": "Fredericton",
+          "province": "New Brunswick",
+          "postalCode": "A4A 4X0"
+        }
+      }
+    ]
+  }
+]
