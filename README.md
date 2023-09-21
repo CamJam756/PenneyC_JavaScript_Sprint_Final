@@ -1,2 +1,2 @@
 # JavaScriptFINALSPRINT
-This repository contains the files to my JavaScript FINAL Sprint: Semester One.
+This is a repository that contains my JavaScript: Sprint Final for Semester One!
